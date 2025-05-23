@@ -28,11 +28,10 @@ To write a C program to represent the given graph using the adjacency list.
 
 ## Program:
 ```
-/*
 Program to find and display the priority of the operator in the given Postfix expression
-Developed by: KAVINRAJ.S
-RegisterNumber:  212223100019
-*/
+Developed by: LOGA MITHRA R
+RegisterNumber:  212223100027
+
 int main(void)
 {   int n,i;
     scanf("%d",&N);
