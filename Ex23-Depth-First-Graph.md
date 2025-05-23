@@ -7,11 +7,11 @@ To compose the code for the function createNode to traverse the graph below in t
 
 ## Algorithm
 ```
-1. **Allocate Memory**: Use `malloc` to allocate memory for a new node of type `struct node`.<br/>
-2. **Initialize Vertex**: Set the `vertex` field of the new node to the value `v`.<br/>
-3. **Initialize Next Pointer**: Set the `next` pointer of the new node to `NULL`.<br/>
-4. **Return Node**: Return the pointer to the newly created node.<br/>
-5. **End Function**: Complete the function execution.  <br/>
+1. Allocate Memory: Use `malloc` to allocate memory for a new node of type `struct node`.<br/>
+2. Initialize Vertex: Set the `vertex` field of the new node to the value `v`.<br/>
+3. Initialize Next Pointer: Set the `next` pointer of the new node to `NULL`.<br/>
+4. Return Node: Return the pointer to the newly created node.<br/>
+5. End Function: Complete the function execution.  <br/>
 ```
 ## Program:
 ```
